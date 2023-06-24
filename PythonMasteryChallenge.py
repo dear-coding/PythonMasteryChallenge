@@ -1,3 +1,18 @@
+A = ['N','E','W']
+A.sort(reverse = True)
+print(A[0])
+
+
+print('Hello'[0+1+2])
+
+
+Which is a Set??
+(9, 8, 7)
+{6, 5, 4}
+{'1':'I'}
+[3, 2, 1]
+
+
 pP = ['p','P']
 pP.sort()
 print(pP[0])
